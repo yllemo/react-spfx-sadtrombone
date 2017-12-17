@@ -4,6 +4,8 @@ SadTrombone sample projekt for SharePoint framework, plays a sad tune when the b
 
 ![SadTrombone SPFx](https://github.com/yllemo/react-spfx-sadtrombone/blob/master/assets/sadtrombone.png)
 
+![SadTrombone SPFx](https://github.com/yllemo/react-spfx-sadtrombone/blob/master/assets/sadtrombone.gif)
+
 Have fun!
 
 ### Building the code
