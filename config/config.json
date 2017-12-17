@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sad-trombone-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/sadTrombone/SadTromboneWebPart.js",
+          "manifest": "./src/webparts/sadTrombone/SadTromboneWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SadTromboneWebPartStrings": "lib/webparts/sadTrombone/loc/{locale}.js"
+  }
+}
