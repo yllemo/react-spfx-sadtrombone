@@ -2,7 +2,7 @@
 
 SadTrombone sample projekt for SharePoint framework, plays a sad tune when the button is pressed...
 
-![SadTrombone SPFx](https://cdn.yllemo.com/sadtrombone.png)
+![SadTrombone SPFx](https://github.com/yllemo/react-spfx-sadtrombone/blob/master/assets/sadtrombone.png)
 
 Have fun!
 
